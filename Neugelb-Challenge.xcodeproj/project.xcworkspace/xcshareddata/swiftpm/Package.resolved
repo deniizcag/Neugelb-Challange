@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "51d67100121d586c9d15ec0227de96442af4dd6d"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "022e4eeb79f817748544b318b991d9a70036bbf8",
+        "version" : "7.2.4"
+      }
+    },
+    {
+      "identity" : "mbprogresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jdg/MBProgressHUD.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c843e4c86d320a11552898646effa8000042ab16"
+      }
+    }
+  ],
+  "version" : 2
+}
